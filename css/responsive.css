@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1000px){
+  .hidden-content{
+  display: none;
+}
+}
+@media only screen and (max-width: 992px){
+  .badged-before{
+    margin-bottom: 2rem;
+  }
+}
+@media only screen and (max-width: 780px) {
+  .car-img{
+    height: 70vh;
+  }
+  footer #contact{
+padding-top: 2rem;
+  }
+}
